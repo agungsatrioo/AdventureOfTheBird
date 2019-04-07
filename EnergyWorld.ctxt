@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnergyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ EnergyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=EnergyWorld()
+comment2.params=stat
+comment2.target=EnergyWorld(BirdStatus)
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+comment4.params=
+comment4.target=void\ makeWalls()
+numComments=5

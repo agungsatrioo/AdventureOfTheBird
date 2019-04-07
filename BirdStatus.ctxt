@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=BirdStatus
+comment0.text=\n\ Write\ a\ description\ of\ class\ BirdStatus\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BirdStatus()
+comment10.params=
+comment10.target=void\ plusHealth()
+comment11.params=
+comment11.target=void\ minHealth()
+comment2.params=world
+comment2.target=BirdStatus(greenfoot.World)
+comment3.params=state\ world
+comment3.target=BirdStatus(BirdStatus,\ greenfoot.World)
+comment4.params=
+comment4.target=void\ drawLives()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ addScore()
+comment7.params=
+comment7.target=void\ minEnergy()
+comment8.params=
+comment8.target=void\ charge()
+comment9.params=amount
+comment9.target=void\ addEnergy(int)
+numComments=12
